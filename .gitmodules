@@ -1,0 +1,9 @@
+[submodule "OmniGraffle-Wireframe"]
+	path = OmniGraffle-Wireframe
+	url = https://github.com/Snowpee/OmniGraffle-Wireframe-Stencils-Huaban.git
+[submodule "timing-stencils"]
+	path = timing-stencils
+	url = https://github.com/morganp/Timing_stencils.git
+[submodule "OMNI-GRAFFLE"]
+	path = OMNI-GRAFFLE
+	url = https://github.com/jay-stillman/OMNI-GRAFFLE-STENCILS.git
